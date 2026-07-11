@@ -1,0 +1,8 @@
+data/
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.zip
+*.7z
+*.bak
